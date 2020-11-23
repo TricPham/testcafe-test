@@ -1,5 +1,6 @@
 import { Selector } from 'testcafe';
 
+//for some reason github crashed on this test
 class LandingPage {
   constructor() {
     this.pageId = '#landing-page';
